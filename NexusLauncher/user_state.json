@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "exported_at_utc": "2026-05-10T22:35:56Z",
+  "settings": {
+    "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
+    "github_repo_name": "games_repository",
+    "save_sync_enabled": true,
+    "save_watch_interval_s": 2,
+    "theme": "dark",
+    "language": "pt-BR",
+    "auto_fetch_metadata": true,
+    "minimize_to_tray": true,
+    "start_with_windows": true,
+    "save_sync_profiles_migrated": true,
+    "last_selected_game_id": 1,
+    "window_geometry": null
+  },
+  "games": [
+    {
+      "id": 1,
+      "name": "Dying light",
+      "executable_path": "C:/Dying-Light-2-RE-SteamRIP.com/Dying Light 2 Stay Human Reloaded Edition/ph/work/bin/x64/DyingLightGame_x64_rwdi.exe",
+      "save_folder": "C:/Users/Public/Documents/OnlineFix/534380",
+      "banner_path": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\banner_dying light_1.jpg",
+      "cover_path": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\cover_dying light_1.jpg",
+      "icon_path": "",
+      "description": "Um jogo de ação e sobrevivência em primeira pessoa em um mundo aberto pós-apocalíptico tomado por zumbis comedores de carne humana. Atravesse uma cidade devastada por um vírus misterioso. Procure por suprimentos, crie armas e enfrente os infectados.",
+      "genre": "Ação, RPG",
+      "platform": "WINDOWS, MAC, LINUX",
+      "developer": "Techland",
+      "publisher": "Techland",
+      "release_date": "26/jan./2015",
+      "total_playtime_seconds": 353.80512952804565,
+      "last_played": "2026-05-10T22:08:11Z",
+      "is_favorite": true,
+      "category": "Uncategorized",
+      "rawg_id": null,
+      "background_url": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\banner_dying light_1.jpg",
+      "added_at": "2026-05-10T21:05:00Z"
+    }
+  ],
+  "play_sessions": [
+    {
+      "id": 1,
+      "game_id": 1,
+      "started_at": "2026-05-10T21:24:03Z",
+      "ended_at": "2026-05-10T21:24:03Z",
+      "duration_seconds": 55.083250761032104
+    },
+    {
+      "id": 2,
+      "game_id": 1,
+      "started_at": "2026-05-10T21:36:32Z",
+      "ended_at": "2026-05-10T21:40:24Z",
+      "duration_seconds": 231.91065049171448
+    },
+    {
+      "id": 3,
+      "game_id": 1,
+      "started_at": "2026-05-10T22:07:04Z",
+      "ended_at": "2026-05-10T22:08:11Z",
+      "duration_seconds": 66.81122827529907
+    }
+  ],
+  "save_profiles": [
+    {
+      "id": 1,
+      "game_id": 1,
+      "save_folder": "C:/Users/Public/Documents/OnlineFix/534380",
+      "last_synced": "2026-05-10T22:20:01Z",
+      "sync_enabled": true,
+      "file_count": 5,
+      "total_size_bytes": 279880
+    }
+  ]
+}
