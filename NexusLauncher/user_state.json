@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-05-10T23:47:50Z",
+  "exported_at_utc": "2026-05-10T23:48:16Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -18,7 +18,7 @@
   "games": [
     {
       "id": 1,
-      "name": "Dying light 2",
+      "name": "Dying light",
       "executable_path": "C:/Dying-Light-2-RE-SteamRIP.com/Dying Light 2 Stay Human Reloaded Edition/ph/work/bin/x64/DyingLightGame_x64_rwdi.exe",
       "save_folder": "C:/Users/Public/Documents/OnlineFix/534380",
       "banner_path": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\banner_dying light_1.jpg",
