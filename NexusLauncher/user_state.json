@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-05-11T00:26:52Z",
+  "exported_at_utc": "2026-05-11T00:32:35Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -38,6 +38,28 @@
       "rawg_id": null,
       "background_url": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\banner_dying light_1.jpg",
       "added_at": "2026-05-10T21:05:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Horizon Forbidden West™ - Edição Completa",
+      "executable_path": "F:/Games/Horizon/Horizon-Forbidden-West-CE-SteamRIP.com/Horizon Forbidden West Complete Edition/HorizonForbiddenWest.exe",
+      "save_folder": "C:/Users/gabig/OneDrive/Documents/Horizon Forbidden West Complete Edition",
+      "banner_path": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\banner_horizon forbidden west™ - edição completa_2420110.jpg",
+      "cover_path": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\cover_horizon forbidden west™ - edição completa_2420110.jpg",
+      "icon_path": "",
+      "description": "Jogue o épico Horizon Forbidden West™ com conteúdo extra e a expansão Burning Shores. A expansão Burning Shores apresenta conteúdo adicional para a aventura da Aloy, incluindo tramas, personagens e experiências inéditas em uma nova área cheia de beleza e perigos.",
+      "genre": "Ação, RPG",
+      "platform": "WINDOWS",
+      "developer": "Guerrilla, Nixxes Software",
+      "publisher": "PlayStation Publishing LLC",
+      "release_date": "21/mar./2024",
+      "total_playtime_seconds": 0.0,
+      "last_played": null,
+      "is_favorite": false,
+      "category": "Uncategorized",
+      "rawg_id": null,
+      "background_url": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\banner_horizon forbidden west™ - edição completa_2420110.jpg",
+      "added_at": "2026-05-11T00:31:05Z"
     }
   ],
   "play_sessions": [
@@ -89,10 +111,19 @@
       "id": 1,
       "game_id": 1,
       "save_folder": "C:/Users/Public/Documents/OnlineFix/534380",
-      "last_synced": "2026-05-10T23:41:19Z",
+      "last_synced": "2026-05-11T00:23:36Z",
       "sync_enabled": true,
       "file_count": 5,
       "total_size_bytes": 284839
+    },
+    {
+      "id": 2,
+      "game_id": 2,
+      "save_folder": "C:/Users/gabig/OneDrive/Documents/Horizon Forbidden West Complete Edition",
+      "last_synced": "2026-05-11T00:31:06Z",
+      "sync_enabled": true,
+      "file_count": 21,
+      "total_size_bytes": 17147545
     }
   ]
 }
