@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-05-10T23:48:16Z",
+  "exported_at_utc": "2026-05-11T00:21:01Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -12,6 +12,7 @@
     "minimize_to_tray": true,
     "start_with_windows": true,
     "save_sync_profiles_migrated": true,
+    "pending_save_restore_game_ids": [],
     "last_selected_game_id": 1,
     "window_geometry": null
   },
