@@ -329,3 +329,15 @@
 18:38:04:425 (00017144) > [Input] Using LibScePad
 18:38:04:426 (00017144) > [XInput] Enumerating available xusb hid devices:
 
+18:38:05:503 (00003984) > [Internet Connection] Success
+18:38:05:503 (00003984) > [Internet Connection] Success
+18:38:05:503 (00003984) > [Account Linking] AuthenticationRequest: 400
+18:38:05:503 (00003984) > [Auth] Failed
+18:38:06:285 (00017144) > [NxApp] Launcher state is not continue
+18:38:06:285 (00017144) > [NxApp] Destroying
+18:38:06:290 (00017144) > [DXGI] Destroyed swapchain.
+18:38:06:290 (00017144) > [SwapChain] Destroyed.
+18:38:06:290 (00017144) > [SwapChain] Released.
+18:38:06:290 (00017144) > [DXGI] Destroyed swapchain.
+18:38:06:290 (00017144) > [DXGI] Released.
+--- NIXXES log closed ---
