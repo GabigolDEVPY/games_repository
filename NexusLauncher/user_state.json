@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-05-13T22:14:59Z",
+  "exported_at_utc": "2026-05-14T01:04:06Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -31,8 +31,8 @@
       "developer": "Techland",
       "publisher": "Techland",
       "release_date": "26/jan./2015",
-      "total_playtime_seconds": 2908.0798625946045,
-      "last_played": "2026-05-13T22:03:51Z",
+      "total_playtime_seconds": 3167.7230772972107,
+      "last_played": "2026-05-14T01:00:21Z",
       "is_favorite": true,
       "category": "Uncategorized",
       "rawg_id": null,
@@ -132,6 +132,13 @@
       "started_at": "2026-05-13T22:02:45Z",
       "ended_at": "2026-05-13T22:03:51Z",
       "duration_seconds": 62.77307486534119
+    },
+    {
+      "id": 11,
+      "game_id": 1,
+      "started_at": "2026-05-14T00:56:01Z",
+      "ended_at": "2026-05-14T01:00:21Z",
+      "duration_seconds": 259.6432147026062
     }
   ],
   "save_profiles": [
@@ -139,10 +146,10 @@
       "id": 1,
       "game_id": 1,
       "save_folder": "C:/Users/Public/Documents/OnlineFix/534380",
-      "last_synced": "2026-05-13T22:03:49Z",
+      "last_synced": "2026-05-14T01:00:20Z",
       "sync_enabled": true,
       "file_count": 5,
-      "total_size_bytes": 284820
+      "total_size_bytes": 285181
     },
     {
       "id": 2,
