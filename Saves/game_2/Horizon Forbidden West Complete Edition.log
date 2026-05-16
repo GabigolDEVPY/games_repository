@@ -401,3 +401,16 @@
 09:20:08:079 (00011540) > [NxProcessorInfo] 	F16C:              	1
 09:20:08:079 (00011540) > [NxProcessorInfo] 	AVX2:              	1
 09:20:08:079 (00011540) > [NxProcessorInfo] 	NormalAffinity(auto)
+09:20:08:359 (00011540) > [NxApp] Creating window...
+09:20:08:364 (00011764) > [GameWindow] UpdateState bVisible true
+09:20:08:379 (00011540) > [NxApp] Window created.
+09:20:08:379 (00011540) > [NxApp] Initializing swapchain...
+09:20:08:379 (00013552) > [SwapChain] Creating...
+09:20:08:379 (00013552) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+09:20:08:405 (00013552) > [DXGI] Created swapchain.
+09:20:08:474 (00013552) > [SwapChain] Gamma correction is enabled.
+09:20:08:474 (00013552) > [SwapChain] Successfully created.
+09:20:08:474 (00013552) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+09:20:08:474 (00011540) > [NxApp] Swapchain initialized
+09:20:08:474 (00011540) > [NxApp] Initializing renderer...
+09:20:08:474 (00011540) > [NxApp] Renderer initialized
