@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-05-16T15:02:10Z",
+  "exported_at_utc": "2026-05-16T15:32:10Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -13,7 +13,7 @@
     "start_with_windows": true,
     "save_sync_profiles_migrated": true,
     "pending_save_restore_game_ids": [],
-    "last_selected_game_id": 1,
+    "last_selected_game_id": 2,
     "window_geometry": null
   },
   "games": [
@@ -153,10 +153,10 @@
       "id": 1,
       "game_id": 1,
       "save_folder": "C:/Users/Public/Documents/OnlineFix/534380",
-      "last_synced": "2026-05-16T15:01:05Z",
+      "last_synced": "2026-05-16T15:11:32Z",
       "sync_enabled": true,
       "file_count": 5,
-      "total_size_bytes": 289524
+      "total_size_bytes": 289523
     },
     {
       "id": 2,
