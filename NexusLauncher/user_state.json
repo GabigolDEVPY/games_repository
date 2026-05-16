@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-05-16T03:39:25Z",
+  "exported_at_utc": "2026-05-16T12:32:10Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -31,8 +31,8 @@
       "developer": "Techland",
       "publisher": "Techland",
       "release_date": "26/jan./2015",
-      "total_playtime_seconds": 24239.282344579697,
-      "last_played": "2026-05-15T21:48:13Z",
+      "total_playtime_seconds": 25289.47063755989,
+      "last_played": "2026-05-16T03:56:55Z",
       "is_favorite": true,
       "category": "Uncategorized",
       "rawg_id": null,
@@ -144,8 +144,8 @@
       "id": 12,
       "game_id": 1,
       "started_at": "2026-05-15T21:48:13Z",
-      "ended_at": null,
-      "duration_seconds": 21071.559267282486
+      "ended_at": "2026-05-16T03:56:55Z",
+      "duration_seconds": 22121.74756026268
     }
   ],
   "save_profiles": [
@@ -153,19 +153,19 @@
       "id": 1,
       "game_id": 1,
       "save_folder": "C:/Users/Public/Documents/OnlineFix/534380",
-      "last_synced": "2026-05-16T03:39:12Z",
+      "last_synced": "2026-05-16T12:20:04Z",
       "sync_enabled": true,
       "file_count": 5,
-      "total_size_bytes": 282112
+      "total_size_bytes": 282655
     },
     {
       "id": 2,
       "game_id": 2,
       "save_folder": "C:/Users/gabig/OneDrive/Documents/Horizon Forbidden West Complete Edition",
-      "last_synced": "2026-05-13T21:38:10Z",
+      "last_synced": "2026-05-16T12:20:11Z",
       "sync_enabled": true,
       "file_count": 21,
-      "total_size_bytes": 17114640
+      "total_size_bytes": 17119537
     }
   ]
 }
