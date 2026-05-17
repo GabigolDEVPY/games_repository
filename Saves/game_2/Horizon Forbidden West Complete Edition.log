@@ -457,3 +457,14 @@
 20:45:03:953 (00013640) > [Render] Working set: 4290MB Page file: 12808MB Video Budget: 6640MB Video Usage: 5952MB Sys Budget: 7463MB Sys Usage: 247MB Tex Usage: 658MB Tex Budget: 667MB Mesh Usage: 1853MB Mesh Budget: 1948MB Demoted: 155MB fps: 67.816666
 20:46:03:952 (00013640) > [Render] Working set: 4293MB Page file: 12808MB Video Budget: 6640MB Video Usage: 5953MB Sys Budget: 7463MB Sys Usage: 247MB Tex Usage: 659MB Tex Budget: 668MB Mesh Usage: 1876MB Mesh Budget: 1969MB Demoted: 155MB fps: 64.266670
 20:47:03:953 (00013640) > [Render] Working set: 4341MB Page file: 12820MB Video Budget: 6713MB Video Usage: 5689MB Sys Budget: 7463MB Sys Usage: 247MB Tex Usage: 658MB Tex Budget: 668MB Mesh Usage: 1644MB Mesh Budget: 1634MB Demoted: 155MB fps: 65.599998
+20:48:03:952 (00013640) > [Render] Working set: 4749MB Page file: 13126MB Video Budget: 6713MB Video Usage: 5766MB Sys Budget: 7463MB Sys Usage: 248MB Tex Usage: 764MB Tex Budget: 774MB Mesh Usage: 1639MB Mesh Budget: 1650MB Demoted: 168MB fps: 91.383331
+20:48:56:704 (00012716) > [GameWindow] Window close requested
+20:48:56:718 (00012716) > [App] Quit request confirmed by user
+20:48:58:834 (00012716) > [NxApp] Destroying
+20:48:59:026 (00012716) > [DXGI] Destroyed swapchain.
+20:48:59:026 (00012716) > [SwapChain] Destroyed.
+20:48:59:026 (00012716) > [SwapChain] Released.
+20:48:59:058 (00012716) > [DXGI] Destroyed swapchain.
+20:48:59:058 (00012716) > [DXGI] Released.
+20:48:59:465 (00012716) > [NxApp] Shutting down module prefetch thread - 24242 MiB was prefetched
+--- NIXXES log closed ---
