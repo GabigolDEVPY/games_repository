@@ -297,3 +297,128 @@
 20:04:04:879 (00012716) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
 20:04:04:879 (00012716) > [Render] ******************************************
 20:04:04:879 (00012716) > [Render] 
+20:04:20:350 (00012716) > [NxReflex] Reflex support result:Result::eOk
+20:04:20:350 (00012716) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
+20:04:20:350 (00012716) > [NxApp] Querying GPU Driver Info...
+20:04:20:350 (00012716) > [NxApp] Enumerating available display adapters:
+20:04:20:377 (00012716) > [NxApp] 		AMD Radeon RX 6600 (active)
+20:04:20:377 (00012716) > [NxApp] Successfully found GPU Driver Info
+20:04:20:377 (00012716) > [D3D] Max supported feature level: 11.0
+20:04:20:377 (00012716) > [Render] Disabled D3D12 experimentals
+20:04:20:719 (00012716) > [Render] VMEM Budget: 7378 MB
+20:04:20:719 (00012716) > [Render] VMEM Available: 7377 MB
+20:04:20:721 (00012716) > [Render] GPU node count: 1
+20:04:20:725 (00012716) > [NxApp] PreInit successful.
+20:04:21:224 (00012716) > [NxUpscaler] XeSS init, code = 0
+20:04:21:237 (00012716) > [Input] Keyboard language: "Português (Brasil)" (id: 1046)
+20:04:21:237 (00012716) > [Input] Keyboard physical layout: "Portuguese (Brazilian ABNT)" (id: 00000416)
+20:04:21:238 (00012716) > [Input] Joystick            ""   product 62823 vendor 13652 version 294 usage 2 usagePage 65282 xinput no
+20:04:21:238 (00012716) > [Input] Joystick            ""   product 62823 vendor 13652 version 294 usage 1 usagePage 12 xinput no
+20:04:21:238 (00012716) > [Input] Joystick            ""   product 73 vendor 9610 version 257 usage 1 usagePage 12 xinput no
+20:04:21:238 (00012716) > [Input] Joystick            ""   product 62823 vendor 13652 version 294 usage 0 usagePage 65283 xinput no
+20:04:21:238 (00012716) > [Input] Joystick            ""   product 62823 vendor 13652 version 294 usage 0 usagePage 65285 xinput no
+20:04:21:238 (00012716) > [Input] Joystick            ""   product 128 vendor 12610 version 256 usage 1 usagePage 12 xinput no
+20:04:21:238 (00012716) > [Input] Joystick            ""   product 73 vendor 9610 version 257 usage 1 usagePage 65280 xinput no
+20:04:21:238 (00012716) > [Input] Joystick            ""   product 62823 vendor 13652 version 294 usage 2 usagePage 65286 xinput no
+20:04:21:238 (00012716) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+20:04:21:238 (00012716) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+20:04:21:238 (00012716) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+20:04:21:238 (00012716) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 109
+20:04:21:238 (00012716) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+20:04:21:238 (00012716) > [Input] Could not initialize Windows.Gaming.Input
+20:04:21:239 (00012716) > [Input] Using LibScePad
+20:04:21:239 (00012716) > [XInput] Enumerating available xusb hid devices:
+
+20:04:22:288 (00011740) > [Internet Connection] Success
+20:04:22:288 (00011740) > [Internet Connection] Success
+20:04:22:288 (00011740) > [Account Linking] AuthenticationRequest: 400
+20:04:22:288 (00011740) > [Auth] Failed
+20:04:23:606 (00012716) > [NxReflex] Reflex support result:Result::eOk
+20:04:23:607 (00012716) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
+20:04:23:607 (00012716) > [NxApp] Driver Desc: AMD Radeon RX 6600
+20:04:23:607 (00012716) > [NxApp] Driver Version: 32.0.21043.10005
+20:04:23:607 (00012716) > [**************************************************Display + Graphics Settings**************************************************] 
+20:04:23:607 (00012716) > [Settings] DirectX Version: 12
+20:04:23:607 (00012716) > [Settings] Window mode: Fullscreen
+20:04:23:607 (00012716) > [Settings] Fullscreen display mode:
+20:04:23:607 (00012716) > [Settings] 	Displaying on monitor: 0
+20:04:23:607 (00012716) > [Settings] 	Resolution: 1920x1080
+20:04:23:607 (00012716) > [Settings] 	HDR: Off
+20:04:23:607 (00012716) > [Settings] 	OS reported Refresh rate: 180
+20:04:23:607 (00012716) > [Settings] 	VSync: Off
+20:04:23:607 (00012716) > [Settings] 	Reflex: Off
+20:04:23:607 (00012716) > [Settings] 	Frame generation: FSR
+20:04:23:607 (00012716) > [Settings] 	Resolution modifier 1.000000
+20:04:23:607 (00012716) > [Settings] 	Dynamic resolution FPS target: 0
+20:04:23:607 (00012716) > [Settings] Anti aliasing: TAA
+
+20:04:23:607 (00012716) > [Settings] Upscale method: None
+
+20:04:23:607 (00012716) > [Settings] Upscale quality: Quality
+
+20:04:23:607 (00012716) > [Settings] Upscale sharpen value: 0.000000
+
+20:04:23:607 (00012716) > [Settings] Graphics Options:
+20:04:23:607 (00012716) > [Settings] 	Texture Quality: Low
+20:04:23:607 (00012716) > [Settings] 	Texture Filtering: Anisotropic8x
+20:04:23:607 (00012716) > [Settings] 	Shadow Quality: High
+20:04:23:607 (00012716) > [Settings] 	Depth of Field: Medium
+20:04:23:607 (00012716) > [Settings] 	Level of Detail: Lowest
+20:04:23:607 (00012716) > [Settings] 	Cinematic LOD: Performance
+20:04:23:607 (00012716) > [Settings] 	Terrain Quality: Low
+20:04:23:607 (00012716) > [Settings] 	Water Quality: Low
+20:04:23:607 (00012716) > [Settings] 	Clouds Quality: Low
+20:04:23:607 (00012716) > [Settings] 	Crowd Detail: Low
+20:04:23:607 (00012716) > [Settings] 	Hair Quality: Lowest
+20:04:23:607 (00012716) > [Settings] 	Ambient Occlusion: SSAO
+20:04:23:607 (00012716) > [Settings] 	Screen Space Reflections: Off
+20:04:23:607 (00012716) > [Settings] 	Translucency Quality: Default
+
+20:04:23:607 (00012716) > [Settings] 	Bloom: On
+20:04:23:607 (00012716) > [Settings] 	Vignette: Off
+20:04:23:607 (00012716) > [Settings] 	Chromatic Aberration: Off
+20:04:23:607 (00012716) > [Settings] 	Motion Blur: 0.001000
+20:04:23:607 (00012716) > [Settings] 	FOV Correction: 1.000000
+20:04:23:607 (00012716) > [Settings] 	Film Grain Strength: 1.000000
+20:04:23:607 (00012716) > [Settings] 	Sharpness: 0.500000
+20:04:23:607 (00012716) > [Settings] 	Lens Flares: Off
+20:04:23:607 (00012716) > [Settings] 	Screen Effects: Off
+20:04:23:607 (00012716) > [Settings] 	Parallax Occlusion: Off
+20:04:23:607 (00012716) > [Settings] 	Screen Space Shadows: Off
+20:04:23:607 (00012716) > [**************************************************Display + Graphics Settings**************************************************] 
+20:04:23:607 (00012716) > [NxApp] Initializing module prefetch thread
+20:04:23:609 (00012716) > [NxStorage] Detected device at 'F:\Games\Horizon\Horizon-Forbidden-West-CE-SteamRIP.com\Horizon Forbidden West Complete Edition\HashDB.bin', name: 'WDC WD7500BPVX-55JC3T3', SSD: no, NVMe: no
+20:04:23:846 (00012716) > [NxProcessorInfo] Processor info:
+20:04:23:846 (00012716) > [NxProcessorInfo] 	Description:             	AMD Ryzen 5 5500                               
+20:04:23:846 (00012716) > [NxProcessorInfo] 	Group Count:       	1
+20:04:23:846 (00012716) > [NxProcessorInfo] 	Physical Core:     	6
+20:04:23:846 (00012716) > [NxProcessorInfo] 	Logical  Core:     	12
+20:04:23:846 (00012716) > [NxProcessorInfo] 	Distinct L3 Cache: 	1
+20:04:23:846 (00012716) > [NxProcessorInfo] 	Family:            	25
+20:04:23:846 (00012716) > [NxProcessorInfo] 	Model:             	80
+20:04:23:846 (00012716) > [NxProcessorInfo] 	Name:              	AMD Ryzen 5 5500                               
+20:04:23:846 (00012716) > [NxProcessorInfo] 	AVX:               	1
+20:04:23:846 (00012716) > [NxProcessorInfo] 	F16C:              	1
+20:04:23:846 (00012716) > [NxProcessorInfo] 	AVX2:              	1
+20:04:23:846 (00012716) > [NxProcessorInfo] 	NormalAffinity(auto)
+20:04:25:614 (00012716) > [NxApp] Creating window...
+20:04:25:618 (00014252) > [GameWindow] UpdateState bVisible true
+20:04:25:633 (00012716) > [NxApp] Window created.
+20:04:25:633 (00012716) > [NxApp] Initializing swapchain...
+20:04:25:633 (00006632) > [SwapChain] Creating...
+20:04:25:633 (00006632) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+20:04:25:657 (00006632) > [DXGI] Created swapchain.
+20:04:25:696 (00006632) > [SwapChain] Gamma correction is enabled.
+20:04:25:696 (00006632) > [SwapChain] Successfully created.
+20:04:25:696 (00006632) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+20:04:25:696 (00012716) > [NxApp] Swapchain initialized
+20:04:25:696 (00012716) > [NxApp] Initializing renderer...
+20:04:25:697 (00012716) > [NxApp] Renderer initialized
+20:05:03:875 (00013640) > [Render] Working set: 2660MB Page file: 5649MB Video Budget: 7378MB Video Usage: 3054MB Sys Budget: 7463MB Sys Usage: 56MB Tex Usage: 391MB Tex Budget: 720MB Mesh Usage: 1MB Mesh Budget: 1480MB Demoted: 64MB fps: 85.766670
+20:06:03:875 (00013640) > [Render] Working set: 4961MB Page file: 8930MB Video Budget: 7378MB Video Usage: 4143MB Sys Budget: 7463MB Sys Usage: 77MB Tex Usage: 618MB Tex Budget: 720MB Mesh Usage: 481MB Mesh Budget: 1480MB Demoted: 76MB fps: 198.016663
+20:07:03:873 (00013640) > [Render] Working set: 5541MB Page file: 9867MB Video Budget: 7378MB Video Usage: 4700MB Sys Budget: 7463MB Sys Usage: 225MB Tex Usage: 705MB Tex Budget: 720MB Mesh Usage: 813MB Mesh Budget: 1480MB Demoted: 76MB fps: 120.766670
+20:08:03:876 (00013640) > [Render] Working set: 5918MB Page file: 10199MB Video Budget: 7378MB Video Usage: 4689MB Sys Budget: 7463MB Sys Usage: 235MB Tex Usage: 706MB Tex Budget: 720MB Mesh Usage: 814MB Mesh Budget: 1480MB Demoted: 76MB fps: 163.933334
+20:09:03:888 (00013640) > [Render] Working set: 6290MB Page file: 10370MB Video Budget: 7378MB Video Usage: 4689MB Sys Budget: 7463MB Sys Usage: 235MB Tex Usage: 706MB Tex Budget: 720MB Mesh Usage: 826MB Mesh Budget: 1480MB Demoted: 76MB fps: 50.250000
+20:10:03:874 (00013640) > [Render] Working set: 6285MB Page file: 10404MB Video Budget: 7378MB Video Usage: 4726MB Sys Budget: 7463MB Sys Usage: 235MB Tex Usage: 705MB Tex Budget: 720MB Mesh Usage: 827MB Mesh Budget: 1480MB Demoted: 76MB fps: 56.233334
+20:11:03:883 (00013640) > [Render] Working set: 6280MB Page file: 10373MB Video Budget: 7378MB Video Usage: 4701MB Sys Budget: 7463MB Sys Usage: 235MB Tex Usage: 705MB Tex Budget: 720MB Mesh Usage: 829MB Mesh Budget: 1480MB Demoted: 76MB fps: 57.016666
+20:12:03:873 (00013640) > [Render] Working set: 6365MB Page file: 9932MB Video Budget: 7378MB Video Usage: 4145MB Sys Budget: 7463MB Sys Usage: 237MB Tex Usage: 690MB Tex Budget: 739MB Mesh Usage: 335MB Mesh Budget: 1480MB Demoted: 88MB fps: 148.000000
