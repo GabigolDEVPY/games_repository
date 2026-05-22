@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-05-22T23:31:19Z",
+  "exported_at_utc": "2026-05-22T23:31:51Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -31,7 +31,7 @@
       "developer": "Techland",
       "publisher": "Techland",
       "release_date": "26/jan./2015",
-      "total_playtime_seconds": 41447.70707941055,
+      "total_playtime_seconds": 41478.11532354355,
       "last_played": "2026-05-22T23:02:02Z",
       "is_favorite": true,
       "category": "Uncategorized",
@@ -208,7 +208,7 @@
       "game_id": 1,
       "started_at": "2026-05-22T23:02:02Z",
       "ended_at": null,
-      "duration_seconds": 1755.0068809986115
+      "duration_seconds": 1785.415125131607
     }
   ],
   "save_profiles": [
