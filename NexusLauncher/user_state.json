@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-05-23T14:46:53Z",
+  "exported_at_utc": "2026-05-23T16:32:26Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -13,7 +13,7 @@
     "start_with_windows": true,
     "save_sync_profiles_migrated": true,
     "pending_save_restore_game_ids": [],
-    "last_selected_game_id": 1,
+    "last_selected_game_id": 2,
     "window_geometry": null
   },
   "games": [
@@ -53,8 +53,8 @@
       "developer": "Guerrilla, Nixxes Software",
       "publisher": "PlayStation Publishing LLC",
       "release_date": "21/mar./2024",
-      "total_playtime_seconds": 2704.4584016799927,
-      "last_played": "2026-05-17T23:49:01Z",
+      "total_playtime_seconds": 3165.4487597942352,
+      "last_played": "2026-05-23T16:31:33Z",
       "is_favorite": true,
       "category": "Uncategorized",
       "rawg_id": null,
@@ -244,6 +244,13 @@
       "started_at": "2026-05-23T13:33:15Z",
       "ended_at": "2026-05-23T14:46:52Z",
       "duration_seconds": 4417.268505811691
+    },
+    {
+      "id": 27,
+      "game_id": 2,
+      "started_at": "2026-05-23T16:23:52Z",
+      "ended_at": "2026-05-23T16:31:33Z",
+      "duration_seconds": 460.99035811424255
     }
   ],
   "save_profiles": [
@@ -263,7 +270,7 @@
       "last_synced": "2026-05-17T23:49:03Z",
       "sync_enabled": true,
       "file_count": 21,
-      "total_size_bytes": 16753385
+      "total_size_bytes": 16742275
     }
   ]
 }
