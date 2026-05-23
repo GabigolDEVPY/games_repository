@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-05-23T13:02:06Z",
+  "exported_at_utc": "2026-05-23T13:06:29Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -13,14 +13,14 @@
     "start_with_windows": true,
     "save_sync_profiles_migrated": true,
     "pending_save_restore_game_ids": [],
-    "last_selected_game_id": 2,
+    "last_selected_game_id": 1,
     "window_geometry": null
   },
   "games": [
     {
       "id": 1,
       "name": "Dying light 2",
-      "executable_path": "C:/Dying-Light-2-RE-SteamRIP.com/Dying Light 2 Stay Human Reloaded Edition/ph/work/bin/x64/DyingLightGame_x64_rwdi.exe",
+      "executable_path": "F:/Games/Dying-Light-2-RE-SteamRIP.com/Dying Light 2 Stay Human Reloaded Edition/ph/work/bin/x64/DyingLightGame_x64_rwdi.exe",
       "save_folder": "C:/Users/Public/Documents/OnlineFix/534380",
       "banner_path": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\banner_dying light_1.jpg",
       "cover_path": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\cover_dying light_1.jpg",
@@ -31,8 +31,8 @@
       "developer": "Techland",
       "publisher": "Techland",
       "release_date": "26/jan./2015",
-      "total_playtime_seconds": 49558.021768569946,
-      "last_played": "2026-05-23T01:46:27Z",
+      "total_playtime_seconds": 49584.38631129265,
+      "last_played": "2026-05-23T13:06:28Z",
       "is_favorite": true,
       "category": "Uncategorized",
       "rawg_id": null,
@@ -209,6 +209,20 @@
       "started_at": "2026-05-22T23:02:02Z",
       "ended_at": "2026-05-23T01:46:27Z",
       "duration_seconds": 9865.321570158005
+    },
+    {
+      "id": 22,
+      "game_id": 1,
+      "started_at": "2026-05-23T13:05:39Z",
+      "ended_at": "2026-05-23T13:05:43Z",
+      "duration_seconds": 3.5951054096221924
+    },
+    {
+      "id": 23,
+      "game_id": 1,
+      "started_at": "2026-05-23T13:06:06Z",
+      "ended_at": "2026-05-23T13:06:28Z",
+      "duration_seconds": 22.769437313079834
     }
   ],
   "save_profiles": [
