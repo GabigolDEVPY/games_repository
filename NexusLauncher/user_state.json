@@ -1,20 +1,18 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-05-25T01:41:02Z",
+  "exported_at_utc": "2026-09-17T22:15:42Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
     "save_sync_enabled": true,
-    "save_watch_interval_s": 2,
     "theme": "dark",
     "language": "pt-BR",
     "auto_fetch_metadata": true,
     "minimize_to_tray": true,
-    "start_with_windows": true,
+    "start_with_windows": false,
     "save_sync_profiles_migrated": true,
     "pending_save_restore_game_ids": [],
-    "last_selected_game_id": 1,
-    "window_geometry": null
+    "last_selected_game_id": 2
   },
   "games": [
     {
@@ -22,21 +20,21 @@
       "name": "Dying light 2",
       "executable_path": "F:/Games/Dying-Light-2-RE-SteamRIP.com/Dying Light 2 Stay Human Reloaded Edition/ph/work/bin/x64/DyingLightGame_x64_rwdi.exe",
       "save_folder": "C:/Users/Public/Documents/OnlineFix/534380",
-      "banner_path": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\banner_dying light_1.jpg",
-      "cover_path": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\cover_dying light_1.jpg",
+      "banner_path": "C:\\Users\\Gabriel\\Documents\\NexusLauncher\\cache\\images\\banner_dying light 2 stay human_ reloaded edition_1.jpg",
+      "cover_path": "C:\\Users\\Gabriel\\Documents\\NexusLauncher\\cache\\images\\cover_dying light 2 stay human_ reloaded edition_1.png",
       "icon_path": "",
-      "description": "Um jogo de ação e sobrevivência em primeira pessoa em um mundo aberto pós-apocalíptico tomado por zumbis comedores de carne humana. Atravesse uma cidade devastada por um vírus misterioso. Procure por suprimentos, crie armas e enfrente os infectados.",
-      "genre": "Ação, RPG",
-      "platform": "WINDOWS, MAC, LINUX",
+      "description": "A humanidade está perdendo a batalha contra o vírus. Viva em um mundo aberto pós-apocalíptico dominado por hordas de zumbis no qual suas habilidades de combate e parkour são essenciais para sobreviver. Cruze a Cidade tranquilamente durante o dia, mas cuidado com os monstros à noite.",
+      "genre": "Ação, Aventura, RPG",
+      "platform": "WINDOWS",
       "developer": "Techland",
       "publisher": "Techland",
-      "release_date": "26/jan./2015",
+      "release_date": "3/fev./2022",
       "total_playtime_seconds": 94161.39561033249,
       "last_played": "2026-05-24T14:41:21Z",
       "is_favorite": true,
       "category": "Uncategorized",
       "rawg_id": null,
-      "background_url": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\banner_dying light_1.jpg",
+      "background_url": "C:\\Users\\Gabriel\\Documents\\NexusLauncher\\cache\\images\\banner_dying light 2 stay human_ reloaded edition_1.jpg",
       "added_at": "2026-05-10T21:05:00Z"
     },
     {
@@ -60,6 +58,28 @@
       "rawg_id": null,
       "background_url": "F:\\WINDOWS\\PROGRAMACAO2026\\Game_Launcher\\cache\\images\\banner_horizon forbidden west™ - edição completa_2420110.jpg",
       "added_at": "2026-05-11T00:31:05Z"
+    },
+    {
+      "id": 3,
+      "name": "Borderlands 4",
+      "executable_path": "C:/Games/Borderlands 4/FitGirl-Launcher.exe",
+      "save_folder": "C:/Users/Gabriel/Documents/My Games/Borderlands 4",
+      "banner_path": "C:\\Users\\Gabriel\\Documents\\NexusLauncher\\cache\\images\\banner_borderlands 4_1285190.jpg",
+      "cover_path": "C:\\Users\\Gabriel\\Documents\\NexusLauncher\\cache\\images\\cover_borderlands 4_1285190.jpg",
+      "icon_path": "",
+      "description": "Borderlands 4 é um looter shooter caótico, com bilhões de armas, inimigos mortais e ação cooperativa de tirar o fôlego. Como um dos quatro novos caça-arcas bambambãs, sua missão é fugir de um planeta cheio de perigos.",
+      "genre": "Ação, Aventura, RPG",
+      "platform": "WINDOWS",
+      "developer": "Gearbox Software",
+      "publisher": "2K",
+      "release_date": "11/set./2025",
+      "total_playtime_seconds": 3.940772771835327,
+      "last_played": "2026-09-17T22:14:23Z",
+      "is_favorite": false,
+      "category": "Uncategorized",
+      "rawg_id": null,
+      "background_url": "C:\\Users\\Gabriel\\Documents\\NexusLauncher\\cache\\images\\banner_borderlands 4_1285190.jpg",
+      "added_at": "2026-09-17T22:13:05Z"
     }
   ],
   "play_sessions": [
@@ -265,6 +285,13 @@
       "started_at": "2026-05-24T14:41:21Z",
       "ended_at": null,
       "duration_seconds": 39577.59294939041
+    },
+    {
+      "id": 30,
+      "game_id": 3,
+      "started_at": "2026-09-17T22:14:19Z",
+      "ended_at": "2026-09-17T22:14:23Z",
+      "duration_seconds": 3.940772771835327
     }
   ],
   "save_profiles": [
@@ -285,6 +312,15 @@
       "sync_enabled": true,
       "file_count": 21,
       "total_size_bytes": 16742275
+    },
+    {
+      "id": 3,
+      "game_id": 3,
+      "save_folder": "C:/Users/Gabriel/Documents/My Games/Borderlands 4",
+      "last_synced": "2026-09-17T22:13:18Z",
+      "sync_enabled": true,
+      "file_count": 10,
+      "total_size_bytes": 6554661
     }
   ]
 }
