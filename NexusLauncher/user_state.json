@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-09-17T22:20:39Z",
+  "exported_at_utc": "2026-09-19T11:00:56Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -73,8 +73,8 @@
       "developer": "Gearbox Software",
       "publisher": "2K",
       "release_date": "11/set./2025",
-      "total_playtime_seconds": 3.940772771835327,
-      "last_played": "2026-09-17T22:14:23Z",
+      "total_playtime_seconds": 3505.3019971847534,
+      "last_played": "2026-09-19T10:03:13Z",
       "is_favorite": false,
       "category": "Uncategorized",
       "rawg_id": null,
@@ -292,6 +292,20 @@
       "started_at": "2026-09-17T22:14:19Z",
       "ended_at": "2026-09-17T22:14:23Z",
       "duration_seconds": 3.940772771835327
+    },
+    {
+      "id": 31,
+      "game_id": 3,
+      "started_at": "2026-09-19T02:03:46Z",
+      "ended_at": "2026-09-19T02:04:28Z",
+      "duration_seconds": 42.168681621551514
+    },
+    {
+      "id": 32,
+      "game_id": 3,
+      "started_at": "2026-09-19T10:03:13Z",
+      "ended_at": null,
+      "duration_seconds": 3459.1925427913666
     }
   ],
   "save_profiles": [
@@ -320,7 +334,7 @@
       "last_synced": "2026-09-17T22:13:18Z",
       "sync_enabled": true,
       "file_count": 10,
-      "total_size_bytes": 6554661
+      "total_size_bytes": 6553819
     }
   ]
 }
