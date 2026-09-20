@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-09-19T12:00:58Z",
+  "exported_at_utc": "2026-09-20T00:58:57Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -12,7 +12,7 @@
     "start_with_windows": false,
     "save_sync_profiles_migrated": true,
     "pending_save_restore_game_ids": [],
-    "last_selected_game_id": 2
+    "last_selected_game_id": 1
   },
   "games": [
     {
@@ -73,8 +73,8 @@
       "developer": "Gearbox Software",
       "publisher": "2K",
       "release_date": "11/set./2025",
-      "total_playtime_seconds": 5277.714300394058,
-      "last_played": "2026-09-19T11:56:28Z",
+      "total_playtime_seconds": 8995.141521692276,
+      "last_played": "2026-09-19T23:59:16Z",
       "is_favorite": false,
       "category": "Uncategorized",
       "rawg_id": null,
@@ -311,8 +311,29 @@
       "id": 33,
       "game_id": 3,
       "started_at": "2026-09-19T11:56:28Z",
+      "ended_at": "2026-09-19T12:02:43Z",
+      "duration_seconds": 374.5371742248535
+    },
+    {
+      "id": 34,
+      "game_id": 3,
+      "started_at": "2026-09-19T12:09:32Z",
+      "ended_at": "2026-09-19T12:09:45Z",
+      "duration_seconds": 13.515382051467896
+    },
+    {
+      "id": 35,
+      "game_id": 3,
+      "started_at": "2026-09-19T23:54:55Z",
+      "ended_at": "2026-09-19T23:55:16Z",
+      "duration_seconds": 20.787450313568115
+    },
+    {
+      "id": 36,
+      "game_id": 3,
+      "started_at": "2026-09-19T23:59:16Z",
       "ended_at": null,
-      "duration_seconds": 268.9467113018036
+      "duration_seconds": 3577.533926010132
     }
   ],
   "save_profiles": [
@@ -340,8 +361,8 @@
       "save_folder": "C:/Users/Gabriel/Documents/My Games/Borderlands 4",
       "last_synced": "2026-09-17T22:13:18Z",
       "sync_enabled": true,
-      "file_count": 13,
-      "total_size_bytes": 6558752
+      "file_count": 14,
+      "total_size_bytes": 6558542
     }
   ]
 }
