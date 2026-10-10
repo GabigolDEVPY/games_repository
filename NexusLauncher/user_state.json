@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-10-04T02:49:30Z",
+  "exported_at_utc": "2026-10-10T12:41:03Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -12,7 +12,7 @@
     "start_with_windows": false,
     "save_sync_profiles_migrated": true,
     "pending_save_restore_game_ids": [],
-    "last_selected_game_id": 2
+    "last_selected_game_id": 3
   },
   "games": [
     {
@@ -73,8 +73,8 @@
       "developer": "Gearbox Software",
       "publisher": "2K",
       "release_date": "11/set./2025",
-      "total_playtime_seconds": 19250.931125164032,
-      "last_played": "2026-10-04T00:55:19Z",
+      "total_playtime_seconds": 23056.015811681747,
+      "last_played": "2026-10-10T11:41:50Z",
       "is_favorite": false,
       "category": "Uncategorized",
       "rawg_id": null,
@@ -376,6 +376,41 @@
       "started_at": "2026-10-04T00:51:56Z",
       "ended_at": "2026-10-04T00:55:19Z",
       "duration_seconds": 202.62827348709106
+    },
+    {
+      "id": 43,
+      "game_id": 3,
+      "started_at": "2026-10-05T22:22:34Z",
+      "ended_at": "2026-10-05T22:22:53Z",
+      "duration_seconds": 18.67296290397644
+    },
+    {
+      "id": 44,
+      "game_id": 3,
+      "started_at": "2026-10-10T00:38:24Z",
+      "ended_at": "2026-10-10T00:40:04Z",
+      "duration_seconds": 100.13583397865295
+    },
+    {
+      "id": 45,
+      "game_id": 3,
+      "started_at": "2026-10-10T00:42:42Z",
+      "ended_at": "2026-10-10T00:44:34Z",
+      "duration_seconds": 112.75283765792847
+    },
+    {
+      "id": 46,
+      "game_id": 3,
+      "started_at": "2026-10-10T11:38:15Z",
+      "ended_at": "2026-10-10T11:38:38Z",
+      "duration_seconds": 23.34754228591919
+    },
+    {
+      "id": 47,
+      "game_id": 3,
+      "started_at": "2026-10-10T11:41:50Z",
+      "ended_at": null,
+      "duration_seconds": 3550.1755096912384
     }
   ],
   "save_profiles": [
@@ -403,8 +438,8 @@
       "save_folder": "C:/Users/Gabriel/Documents/My Games/Borderlands 4",
       "last_synced": "2026-10-02T01:11:31Z",
       "sync_enabled": true,
-      "file_count": 10,
-      "total_size_bytes": 6579827
+      "file_count": 11,
+      "total_size_bytes": 6585275
     }
   ]
 }
