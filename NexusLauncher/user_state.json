@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-10-10T13:41:03Z",
+  "exported_at_utc": "2026-10-11T01:19:30Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -12,7 +12,7 @@
     "start_with_windows": false,
     "save_sync_profiles_migrated": true,
     "pending_save_restore_game_ids": [],
-    "last_selected_game_id": 3
+    "last_selected_game_id": 2
   },
   "games": [
     {
@@ -73,13 +73,35 @@
       "developer": "Gearbox Software",
       "publisher": "2K",
       "release_date": "11/set./2025",
-      "total_playtime_seconds": 26659.00584435463,
-      "last_played": "2026-10-10T11:41:50Z",
+      "total_playtime_seconds": 26780.699614048004,
+      "last_played": "2026-10-10T13:43:47Z",
       "is_favorite": false,
       "category": "Uncategorized",
       "rawg_id": null,
       "background_url": "C:\\Users\\Gabriel\\Documents\\NexusLauncher\\cache\\images\\banner_borderlands 4_1285190.jpg",
       "added_at": "2026-09-17T22:13:05Z"
+    },
+    {
+      "id": 4,
+      "name": "Resident Evil Requiem",
+      "executable_path": "D:/Games/RE9/Resident Evil Requiem/re9.exe",
+      "save_folder": "C:/Users/Gabriel/AppData/Roaming/GSE Saves",
+      "banner_path": "C:\\Users\\Gabriel\\Documents\\NexusLauncher\\cache\\images\\banner_resident evil requiem_3764200.jpg",
+      "cover_path": "C:\\Users\\Gabriel\\Documents\\NexusLauncher\\cache\\images\\cover_resident evil requiem_3764200.jpg",
+      "icon_path": "",
+      "description": "Réquiem para os mortos. Pesadelo para os vivos. Prepare-se para escapar da morte em uma experiência aterrorizante que vai gelar sua espinha.",
+      "genre": "Ação, Aventura",
+      "platform": "WINDOWS",
+      "developer": "CAPCOM Co., Ltd.",
+      "publisher": "CAPCOM Co., Ltd.",
+      "release_date": "26/fev./2026",
+      "total_playtime_seconds": 1949.8879444599152,
+      "last_played": "2026-10-11T00:56:01Z",
+      "is_favorite": false,
+      "category": "Uncategorized",
+      "rawg_id": null,
+      "background_url": "C:\\Users\\Gabriel\\Documents\\NexusLauncher\\cache\\images\\banner_resident evil requiem_3764200.jpg",
+      "added_at": "2026-10-11T00:22:29Z"
     }
   ],
   "play_sessions": [
@@ -409,8 +431,22 @@
       "id": 47,
       "game_id": 3,
       "started_at": "2026-10-10T11:41:50Z",
-      "ended_at": null,
-      "duration_seconds": 7153.1655423641205
+      "ended_at": "2026-10-10T13:42:17Z",
+      "duration_seconds": 7227.29120349884
+    },
+    {
+      "id": 48,
+      "game_id": 3,
+      "started_at": "2026-10-10T13:42:59Z",
+      "ended_at": "2026-10-10T13:43:47Z",
+      "duration_seconds": 47.568108558654785
+    },
+    {
+      "id": 49,
+      "game_id": 4,
+      "started_at": "2026-10-11T00:23:31Z",
+      "ended_at": "2026-10-11T00:56:01Z",
+      "duration_seconds": 1949.8879444599152
     }
   ],
   "save_profiles": [
@@ -439,7 +475,16 @@
       "last_synced": "2026-10-02T01:11:31Z",
       "sync_enabled": true,
       "file_count": 11,
-      "total_size_bytes": 6586059
+      "total_size_bytes": 6589813
+    },
+    {
+      "id": 4,
+      "game_id": 4,
+      "save_folder": "C:/Users/Gabriel/AppData/Roaming/GSE Saves",
+      "last_synced": "2026-10-11T00:23:28Z",
+      "sync_enabled": true,
+      "file_count": 41,
+      "total_size_bytes": 13474630
     }
   ]
 }
