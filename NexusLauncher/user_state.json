@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-10-11T23:37:26Z",
+  "exported_at_utc": "2026-10-12T00:37:28Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -489,7 +489,7 @@
       "last_synced": "2026-10-02T01:11:31Z",
       "sync_enabled": true,
       "file_count": 12,
-      "total_size_bytes": 6592573
+      "total_size_bytes": 6594765
     },
     {
       "id": 4,
