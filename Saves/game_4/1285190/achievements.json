@@ -6,8 +6,8 @@
     "progress": 0
   },
   "Achievement_01": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1792296297,
     "max_progress": 1,
     "progress": 0
   },
@@ -33,7 +33,7 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 10,
-    "progress": 6
+    "progress": 9
   },
   "Achievement_06": {
     "earned": false,
@@ -57,7 +57,7 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 53,
-    "progress": 5
+    "progress": 6
   },
   "Achievement_10": {
     "earned": false,
@@ -156,8 +156,8 @@
     "progress": 0
   },
   "Achievement_26": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1791808159,
     "max_progress": 1,
     "progress": 0
   },
@@ -168,14 +168,14 @@
     "progress": 0
   },
   "Achievement_28": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1792294375,
     "max_progress": 1,
     "progress": 0
   },
   "Achievement_29": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1792372991,
     "max_progress": 1,
     "progress": 0
   },
