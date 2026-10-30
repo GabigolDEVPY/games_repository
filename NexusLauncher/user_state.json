@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-10-19T01:23:11Z",
+  "exported_at_utc": "2026-10-30T20:51:03Z",
   "settings": {
     "github_repo_url": "https://github.com/GabigolDEVPY/games_repository.git",
     "github_repo_name": "games_repository",
@@ -73,8 +73,8 @@
       "developer": "Gearbox Software",
       "publisher": "2K",
       "release_date": "11/set./2025",
-      "total_playtime_seconds": 54725.94662499428,
-      "last_played": "2026-10-19T00:24:18Z",
+      "total_playtime_seconds": 55631.656603336334,
+      "last_played": "2026-10-19T20:44:23Z",
       "is_favorite": false,
       "category": "Uncategorized",
       "rawg_id": null,
@@ -522,8 +522,15 @@
       "id": 60,
       "game_id": 3,
       "started_at": "2026-10-19T00:24:18Z",
-      "ended_at": null,
-      "duration_seconds": 3530.9908876419067
+      "ended_at": "2026-10-19T01:37:46Z",
+      "duration_seconds": 4408.381271123886
+    },
+    {
+      "id": 61,
+      "game_id": 3,
+      "started_at": "2026-10-19T20:43:55Z",
+      "ended_at": "2026-10-19T20:44:23Z",
+      "duration_seconds": 28.319594860076904
     }
   ],
   "save_profiles": [
@@ -552,7 +559,7 @@
       "last_synced": "2026-10-02T01:11:31Z",
       "sync_enabled": true,
       "file_count": 11,
-      "total_size_bytes": 6632299
+      "total_size_bytes": 7695453
     },
     {
       "id": 4,
@@ -560,8 +567,8 @@
       "save_folder": "C:/Users/Gabriel/AppData/Roaming/GSE Saves",
       "last_synced": "2026-10-11T00:23:28Z",
       "sync_enabled": true,
-      "file_count": 44,
-      "total_size_bytes": 13474666
+      "file_count": 45,
+      "total_size_bytes": 13474678
     }
   ]
 }
